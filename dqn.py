@@ -1,32 +1,27 @@
-# META DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# METADATA [dqn.py] - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-    # Developer details: 
-        # Name: Tanisha Priya
-        # Role: Architect
-
-    # Version:
-        # Version: V 1.0 (24 October 2024)
-            # Developers: Tanisha Priya
-            # Unit test: Pass
-            # Integration test: Pass
-     
     # Description: This code snippet implements a Deep Q-Network (DQN) for the Snake Game using TensorFlow and Keras. 
     # The Snake is trained to learn optimal movement strategies based on rewards and penalties using the DQN algorithm. 
     # The objective is to avoid collisions while eating randomly placed apples. The model uses a neural network to approximate 
     # the Q-value function and improve the agent's performance over time.
 
-# CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    # Developed By: 
+        # Name: Mohini Tiwari
+        # Role: Developer
+        # Code ownership rights: Mohini Tiwari
 
-    # Dependency: 
-        # Environment: 
-        # Python: 3.11.0   
-        # pygame==2.4.0
-        # numpy==1.24.4
-        # matplotlib==3.8.0
-        # tensorflow==2.14.0
-        # keras==2.14.0
+# CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+    # Dependencies:
+        # Python 3.11.5
+        # Libraries:
+            # Pygame 2.4.0
+            # Numpy 1.24.4
+            # Matplotlib 3.8.0
+            # TensorFlow 2.14.0
+            # Keras 2.14.0
 
+# Importing the necessary libraries
 import pygame
 import random
 import numpy as np

@@ -39,7 +39,7 @@ This project demonstrates a **Snake Game** implemented using **Deep Q-Learning (
 
 1. Clone the repository from GitHub:
    ```
-   git clone https://github.com/Preprod-Labs/DIY-ReinforcementLearning-Policy
+   git clone https://github.com/VITB-Tigers/ReinforcementLearning-Policy
    ```
 
 2. To create and activate a virtual environment (recommended) using Conda, run the following commands:
