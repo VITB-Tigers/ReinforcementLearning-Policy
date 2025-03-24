@@ -13,7 +13,7 @@
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
     # Dependencies:
-        # Python 3.11.5
+        # Python 3.11.0
         # Libraries:
             # Pygame 2.4.0
             # Numpy 1.24.4
